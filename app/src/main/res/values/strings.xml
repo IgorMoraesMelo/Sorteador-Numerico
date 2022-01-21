@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sorteador Numerico</string>
+    <string name="txt_boasvinda">Seja bem vindo ao Sorteador Númerico</string>
+    <string name="txt_sorteador">Acerte um número entre 0 e 30 e ganhe os melhores prêmios</string>
+    <string name="txt_resultado"> </string>
+    <string name="btn_sortear">Sortear</string>
+</resources>
